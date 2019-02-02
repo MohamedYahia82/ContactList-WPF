@@ -1,0 +1,11 @@
+c:\users\mohamed yahia\documents\visual studio 2010\Projects\Contact List\Contact List\bin\Debug\Contact List.exe
+c:\users\mohamed yahia\documents\visual studio 2010\Projects\Contact List\Contact List\bin\Debug\Contact List.pdb
+c:\users\mohamed yahia\documents\visual studio 2010\Projects\Contact List\Contact List\obj\x86\Debug\Main.baml
+c:\users\mohamed yahia\documents\visual studio 2010\Projects\Contact List\Contact List\obj\x86\Debug\Main.g.cs
+c:\users\mohamed yahia\documents\visual studio 2010\Projects\Contact List\Contact List\obj\x86\Debug\App.g.cs
+c:\users\mohamed yahia\documents\visual studio 2010\Projects\Contact List\Contact List\obj\x86\Debug\Contact List_MarkupCompile.cache
+c:\users\mohamed yahia\documents\visual studio 2010\Projects\Contact List\Contact List\obj\x86\Debug\Contact List.g.resources
+c:\users\mohamed yahia\documents\visual studio 2010\Projects\Contact List\Contact List\obj\x86\Debug\Contact_List.Properties.Resources.resources
+c:\users\mohamed yahia\documents\visual studio 2010\Projects\Contact List\Contact List\obj\x86\Debug\Contact List.csproj.GenerateResource.Cache
+c:\users\mohamed yahia\documents\visual studio 2010\Projects\Contact List\Contact List\obj\x86\Debug\Contact List.exe
+c:\users\mohamed yahia\documents\visual studio 2010\Projects\Contact List\Contact List\obj\x86\Debug\Contact List.pdb

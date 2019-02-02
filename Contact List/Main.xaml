@@ -1,0 +1,8 @@
+﻿<Window x:Class="Contact_List.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="الصفحة الرئيسية" Height="148" Width="366" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" FontFamily="Microsoft Sans Serif" Icon="/Contact%20List;component/Images/phonebook.png">
+    <Grid>
+        
+    </Grid>
+</Window>
