@@ -9,3 +9,14 @@ c:\users\mohamed yahia\documents\visual studio 2010\Projects\Contact List\Contac
 c:\users\mohamed yahia\documents\visual studio 2010\Projects\Contact List\Contact List\obj\x86\Debug\Contact List.csproj.GenerateResource.Cache
 c:\users\mohamed yahia\documents\visual studio 2010\Projects\Contact List\Contact List\obj\x86\Debug\Contact List.exe
 c:\users\mohamed yahia\documents\visual studio 2010\Projects\Contact List\Contact List\obj\x86\Debug\Contact List.pdb
+D:\Mohamed Yahia\WPF\Projects\Contact List\Contact List\Contact List\obj\x86\Debug\Contact List.exe
+D:\Mohamed Yahia\WPF\Projects\Contact List\Contact List\Contact List\obj\x86\Debug\Contact List.pdb
+D:\Mohamed Yahia\WPF\Projects\Contact List\Contact List\Contact List\bin\Debug\Contact List.exe
+D:\Mohamed Yahia\WPF\Projects\Contact List\Contact List\Contact List\bin\Debug\Contact List.pdb
+D:\Mohamed Yahia\WPF\Projects\Contact List\Contact List\Contact List\obj\x86\Debug\Main.baml
+D:\Mohamed Yahia\WPF\Projects\Contact List\Contact List\Contact List\obj\x86\Debug\Main.g.cs
+D:\Mohamed Yahia\WPF\Projects\Contact List\Contact List\Contact List\obj\x86\Debug\App.g.cs
+D:\Mohamed Yahia\WPF\Projects\Contact List\Contact List\Contact List\obj\x86\Debug\Contact List_MarkupCompile.cache
+D:\Mohamed Yahia\WPF\Projects\Contact List\Contact List\Contact List\obj\x86\Debug\Contact List.g.resources
+D:\Mohamed Yahia\WPF\Projects\Contact List\Contact List\Contact List\obj\x86\Debug\Contact_List.Properties.Resources.resources
+D:\Mohamed Yahia\WPF\Projects\Contact List\Contact List\Contact List\obj\x86\Debug\Contact List.csproj.GenerateResource.Cache

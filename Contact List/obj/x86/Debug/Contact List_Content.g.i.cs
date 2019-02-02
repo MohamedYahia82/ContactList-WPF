@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/phonebook.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("user_group.ico")]
 
 
